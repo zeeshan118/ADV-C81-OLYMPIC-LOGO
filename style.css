@@ -1,0 +1,37 @@
+.body_backgorund {
+    
+        background-image: url("https://img.wallpapersafari.com/desktop/1440/900/68/20/cpxhSn.jpg");
+        background-position: center;
+        background-size: cover;
+      }
+      h1
+      {
+          color: red; 
+          font-size: 40px;
+      }
+      #myCanvas
+      {
+          background-color: white; 
+          border-style:ridge;
+      }
+      span
+      {
+          font-size: 20px;
+      }");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
